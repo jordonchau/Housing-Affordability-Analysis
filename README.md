@@ -91,7 +91,7 @@ Rent Burden (%) = (Median Monthly Rent × 12 / Median Household Income) × 100
 ```
 Rent burden measures the percentage of annual household income required to cover annual housing costs.
 
-SQL Analysis
+### 4. SQL Analysis
 
 SQLite was used to store and query the merged housing dataset.
 
@@ -114,7 +114,7 @@ ORDER BY RentBurdenPct ASC
 LIMIT 10;
 Dashboard Features
 
-The Power BI dashboard includes:
+### 5. The Power BI dashboard includes:
 
 KPI Cards
 Average Monthly Rent
@@ -128,7 +128,7 @@ Top 10 Most Affordable ZIP Codes
 Top 10 Least Affordable ZIP Codes
 Median Household Income vs Monthly Rent Scatter Plot
 
-Key Insights
+### 6. Key Insights
 The average monthly rent across New York and New Jersey ZIP codes was approximately $3,230.
 The average household income across analyzed ZIP codes was approximately $104,000.
 The average rent burden across both states was approximately 38.7%, exceeding the commonly recommended affordability threshold of 30%.
@@ -136,10 +136,11 @@ Higher-income ZIP codes generally experienced higher monthly rents, indicating a
 Several luxury and seasonal housing markets, particularly in the Hamptons region, exhibited extremely high rent burden percentages due to exceptionally high rental prices.
 The most affordable ZIP codes experienced rent burdens near 15%, while some outlier ZIP codes exceeded 100%, highlighting significant affordability disparities.
 
-Dashboard Preview
+### 7. Dashboard Preview
 <img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/ac29e76b-2cb0-416c-b7c2-75e88f0a8d71" />
 
-Project Structure
+### Project Structure
+```text
 housing-affordability-analysis/
 │
 ├── data/
@@ -160,10 +161,11 @@ housing-affordability-analysis/
 │   └── dashboard.png
 │
 └── README.md
+```
 
-Future Improvements
-Expand the analysis to all U.S. states.
-Incorporate additional socioeconomic indicators such as poverty rates and unemployment.
-Add geographic mapping visualizations.
-Develop predictive models to forecast future housing affordability trends.
+### Future Improvements
+1. Expand the analysis to all U.S. states.
+2. Incorporate additional socioeconomic indicators such as poverty rates and unemployment.
+3. Add geographic mapping visualizations.
+4. Develop predictive models to forecast future housing affordability trends.
 
