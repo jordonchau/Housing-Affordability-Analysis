@@ -137,6 +137,7 @@ Several luxury and seasonal housing markets, particularly in the Hamptons region
 The most affordable ZIP codes experienced rent burdens near 15%, while some outlier ZIP codes exceeded 100%, highlighting significant affordability disparities.
 
 Dashboard Preview
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/ac29e76b-2cb0-416c-b7c2-75e88f0a8d71" />
 
 Project Structure
 housing-affordability-analysis/
