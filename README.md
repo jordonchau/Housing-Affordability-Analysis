@@ -88,7 +88,7 @@ Formula:
 
 ```text
 Rent Burden (%) = (Median Monthly Rent × 12 / Median Household Income) × 100
-
+```
 Rent burden measures the percentage of annual household income required to cover annual housing costs.
 
 SQL Analysis
