@@ -164,6 +164,10 @@ housing-affordability-analysis/
 └── README.md
 ```
 
+### Full Python Scripts Here
+
+https://github.com/jordonchau/Housing-Affordability-Analysis/blob/main/housing_analysis%20(1).ipynb
+
 ### Future Improvements
 1. Expand the analysis to all U.S. states.
 2. Incorporate additional socioeconomic indicators such as poverty rates and unemployment.
